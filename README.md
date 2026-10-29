@@ -26,3 +26,4 @@ Refer to the instructions in each exercise folder to compile and run the program
 ## GitHub Evidence
 - Issues: To be added
 - Pull requests: To be added
+Additional documentation for the Git practice assignment.
