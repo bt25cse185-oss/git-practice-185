@@ -1,0 +1,27 @@
+
+# Git Commands Record
+
+| Command | Purpose |
+|---|---|
+| git init | Initialize a Git repository |
+| git clone URL | Copy a remote repository |
+| git status | Check file status |
+| git add . | Stage changes |
+| git commit -m "message" | Save staged changes |
+| git log --oneline | View commit history |
+| git branch | List branches |
+| git switch -c feature | Create and switch to a branch |
+| git merge feature | Merge a branch |
+| git pull | Download and integrate remote changes |
+| git push | Upload commits to GitHub |
+| git remote -v | View remote repository URLs |
+
+## Workflow
+1. Created a GitHub repository.
+2. Added assignment documentation.
+3. Committed changes to the main branch.
+4. Next: add exercise files and practise branching and merging.
+
+## Merge Conflict
+Document the actual conflict encountered, the files involved,
+and how the conflict was resolved during the assignment.
